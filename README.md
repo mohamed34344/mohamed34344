@@ -4,11 +4,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=61DAFB&center=true&vCenter=true&width=500&lines=Hi,+I'm+Mohamed!;
- Frontend Developer+(.Ract);Backend+Developer+%7C+SQL+%7C+APIs;Always+Learning+Something+New!" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -56,7 +51,8 @@
 
 <a href="https://www.linkedin.com/in/mohamed-alasfer-884273351/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/> </a>
 <a href="mohamedalasfer256@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Email-D44638?style=for-the-badge&logo=Gmail&logoColor=white"/> </a>
-<a href="https://" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/> </a>
+<a href="https://www.instagram.com/mohamed_alasfer_76/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 <a href="https://www.facebook.com/" target="_blank"> <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/> </a>
 
 ---
