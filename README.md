@@ -18,7 +18,6 @@
 
 ---
 
-## 💡 What I'm Currently Learning
 --
 
 ### 🎨 Front-End Basics:
